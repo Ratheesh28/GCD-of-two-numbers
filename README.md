@@ -15,6 +15,10 @@ To write a program to find the GCD of two numbers using function.
 
 ## Program:
 ```
+# Program Name :  Find the GCD of two numbers
+# Name : RATHEESHKUMAR B R
+# Register Number : 212223110040
+
 def gcd():
     n1,n2=int(input()),int(input())
     if n1>n2:
@@ -28,7 +32,8 @@ def gcd():
 ```
 
 ## Output:
-![exp 4 python](https://github.com/Ratheesh28/GCD-of-two-numbers/assets/138849186/4373bb7e-3f4c-4fd9-8970-a2ba289a24ad)
+![Screenshot 2024-04-09 174424](https://github.com/Ratheesh28/GCD-of-two-numbers/assets/138849186/06e3ae3d-4990-4af4-a2f1-97f66860ee32)
+
 
 
 ## Result:
